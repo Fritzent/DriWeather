@@ -1,0 +1,28 @@
+<svg width="35" height="25" viewBox="0 0 35 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="9.00899" cy="6.85555" r="6.34676" fill="url(#paint0_radial_472_4)"/>
+<g filter="url(#filter0_ii_472_4)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M15.8776 24.275V24.2754H7.5314C3.37718 24.2754 0.00952148 20.9077 0.00952148 16.7535C0.00952148 12.5993 3.37718 9.23162 7.53139 9.23162H7.94355C9.40162 9.23162 10.7678 9.62494 11.9419 10.3113C13.4681 5.78945 17.7444 2.53369 22.7812 2.53369H23.3479C29.3516 2.53369 34.2185 7.40065 34.2185 13.4043C34.2185 19.408 29.3516 24.275 23.3479 24.275H15.8776Z" fill="white"/>
+</g>
+<defs>
+<filter id="filter0_ii_472_4" x="-17.9905" y="-12.4663" width="60.209" height="47.7417" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="8" dy="-15"/>
+<feGaussianBlur stdDeviation="15"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+<feBlend mode="normal" in2="shape" result="effect1_innerShadow_472_4"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="-18" dy="11"/>
+<feGaussianBlur stdDeviation="15"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+<feBlend mode="normal" in2="effect1_innerShadow_472_4" result="effect2_innerShadow_472_4"/>
+</filter>
+<radialGradient id="paint0_radial_472_4" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(11.5342 3.39599) rotate(132.136) scale(13.2241 13.2241)">
+<stop stop-color="#FFF72C"/>
+<stop offset="1" stop-color="#DF7800"/>
+</radialGradient>
+</defs>
+</svg>
